@@ -1,0 +1,11 @@
+{
+    "P2Pv2 - cycle time" : "P2Pv2",
+    "AS2 receiver - cycle time" : "AS2_receiver",
+    "AS2 sender - cycle time" : "AS2_sender",
+    "Archiving BMR - cycle time" : "Archiving_BMR", 
+	"FTPs - cycle time" : "FTPs", 
+	"SubmIT_whole - cycle time" : "submIT", 
+	"WebService - cycle time v2" : "WebServices",
+	"X400 EXITEAT - cycle time" : "X.400", 
+	"Archiving EDIARCHIVE - cycle time" : "Archive_trustIT"
+}
